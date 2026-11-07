@@ -1,0 +1,15 @@
+{
+  "name": "cyber-readiness-wire-9571",
+  "version": "1.0.0",
+  "description": "Unified agent-consumable cybersecurity operating layer providing deterministic internet health, exposure intelligence, and autonomous security readiness scoring.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
